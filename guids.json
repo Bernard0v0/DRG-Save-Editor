@@ -100,8 +100,8 @@
     },
     "86AA0DD13FD37E43B2FBF176EE5DE815": {
       "dwarf": "Gunner",
-      "weapon": "'Thunderhead' Heavy Autocannon",
-      "name": "Big Bertha",
+      "weapon": "“雷暴云砧”重型双管机炮",
+      "name": "大贝莎",
       "cost": {
         "credits": 8400,
         "bismor": 125,
@@ -114,8 +114,8 @@
     },
     "8C0142A687637A4EA4CC8A7F84B9610A": {
       "dwarf": "Gunner",
-      "weapon": "'Thunderhead' Heavy Autocannon",
-      "name": "Carpet Bomber",
+      "weapon": "“雷暴云砧”重型双管机炮",
+      "name": "地毯轰炸",
       "cost": {
         "credits": 7350,
         "bismor": 0,
@@ -128,8 +128,8 @@
     },
     "01E23067CBB9A6428AE4394C99F1D2BB": {
       "dwarf": "Gunner",
-      "weapon": "'Thunderhead' Heavy Autocannon",
-      "name": "Composite Drums",
+      "weapon": "“雷暴云砧”重型双管机炮",
+      "name": "复合弹鼓",
       "cost": {
         "credits": 7850,
         "bismor": 0,
@@ -142,8 +142,8 @@
     },
     "3DD5E8141C483E43AA3E0708CE75D663": {
       "dwarf": "Gunner",
-      "weapon": "'Thunderhead' Heavy Autocannon",
-      "name": "Combat Mobility",
+      "weapon": "“雷暴云砧”重型双管机炮",
+      "name": "战斗机动",
       "cost": {
         "credits": 7650,
         "bismor": 0,
@@ -156,8 +156,8 @@
     },
     "32654E9478165E4DA3F0DBD33B180341": {
       "dwarf": "Gunner",
-      "weapon": "'Thunderhead' Heavy Autocannon",
-      "name": "Neurotoxin Payload",
+      "weapon": "“雷暴云砧”重型双管机炮",
+      "name": "毒素载荷",
       "cost": {
         "credits": 8100,
         "bismor": 0,
@@ -170,8 +170,8 @@
     },
     "CB83FD6C13C63F4982DC87B9796311C8": {
       "dwarf": "Gunner",
-      "weapon": "'Thunderhead' Heavy Autocannon",
-      "name": "Splintering Shells",
+      "weapon": "“雷暴云砧”重型双管机炮",
+      "name": "破片弹壳",
       "cost": {
         "credits": 7300,
         "bismor": 0,
@@ -184,8 +184,8 @@
     },
     "D006E3EEE0540242A2B0BCA8ABCDB387": {
       "dwarf": "Scout",
-      "weapon": "M1000 Classic",
-      "name": "Minimal Clips",
+      "weapon": "M1000 经典型步枪",
+      "name": "精简弹匣",
       "cost": {
         "credits": 8200,
         "bismor": 0,
@@ -198,8 +198,8 @@
     },
     "1073CEEBECBC014E8370E259040EB71C": {
       "dwarf": "Scout",
-      "weapon": "M1000 Classic",
-      "name": "Supercooling Chamber",
+      "weapon": "M1000 经典型步枪",
+      "name": "过冷枪膛",
       "cost": {
         "credits": 8500,
         "bismor": 0,
@@ -212,8 +212,8 @@
     },
     "AAC9B6E4458458478E50DB87324097EB": {
       "dwarf": "Scout",
-      "weapon": "M1000 Classic",
-      "name": "Electrocuting Focus Shots",
+      "weapon": "M1000 经典型步枪",
+      "name": "电击瞄准",
       "cost": {
         "credits": 8850,
         "bismor": 120,
@@ -226,8 +226,8 @@
     },
     "2A12358F750B704996C37D467ECF1D36": {
       "dwarf": "Scout",
-      "weapon": "M1000 Classic",
-      "name": "Hipster",
+      "weapon": "M1000 经典型步枪",
+      "name": "腰射潮人",
       "cost": {
         "credits": 8900,
         "bismor": 0,
@@ -240,8 +240,8 @@
     },
     "8A0122E44E42104BAAAD6B4534A9DE8F": {
       "dwarf": "Scout",
-      "weapon": "M1000 Classic",
-      "name": "Hoverclock",
+      "weapon": "M1000 经典型步枪",
+      "name": "专注悬停",
       "cost": {
         "credits": 7350,
         "bismor": 105,
@@ -254,8 +254,8 @@
     },
     "D1544B3528938A48964E8D9A6309D1DA": {
       "dwarf": "Scout",
-      "weapon": "M1000 Classic",
-      "name": "Active Stability System",
+      "weapon": "M1000 经典型步枪",
+      "name": "主动稳定",
       "cost": {
         "credits": 8150,
         "bismor": 90,
@@ -268,8 +268,8 @@
     },
     "6F26A8B49F967C4D999F734645EAE2C4": {
       "dwarf": "Gunner",
-      "weapon": "BRT7 Burst Fire Gun",
-      "name": "Composite Casings",
+      "weapon": "BRT7 连发手枪",
+      "name": "复合弹壳",
       "cost": {
         "credits": 7950,
         "bismor": 0,
@@ -282,8 +282,8 @@
     },
     "2FF3D4C92D59304592009FA2E39BFFC6": {
       "dwarf": "Gunner",
-      "weapon": "BRT7 Burst Fire Gun",
-      "name": "Compact Mags",
+      "weapon": "BRT7 连发手枪",
+      "name": "紧凑弹匣",
       "cost": {
         "credits": 7350,
         "bismor": 0,
@@ -296,8 +296,8 @@
     },
     "4A4F93FE1AC31E41B897C1F1B264A672": {
       "dwarf": "Gunner",
-      "weapon": "BRT7 Burst Fire Gun",
-      "name": "Electro Minelets",
+      "weapon": "BRT7 连发手枪",
+      "name": "电击陷阱",
       "cost": {
         "credits": 7450,
         "bismor": 0,
@@ -310,8 +310,8 @@
     },
     "414916957AD3D0409B5FE3692A46DD19": {
       "dwarf": "Gunner",
-      "weapon": "BRT7 Burst Fire Gun",
-      "name": "Full Chamber Seal",
+      "weapon": "BRT7 连发手枪",
+      "name": "全腔密封",
       "cost": {
         "credits": 7850,
         "bismor": 120,
@@ -324,8 +324,8 @@
     },
     "88ABD40A78329942884C00D7F22DAC90": {
       "dwarf": "Gunner",
-      "weapon": "BRT7 Burst Fire Gun",
-      "name": "Experimental Rounds",
+      "weapon": "BRT7 连发手枪",
+      "name": "实验弹药",
       "cost": {
         "credits": 8550,
         "bismor": 0,
@@ -338,8 +338,8 @@
     },
     "8F1C6A1A23A6DF4CBCA5510C4A19F221": {
       "dwarf": "Gunner",
-      "weapon": "BRT7 Burst Fire Gun",
-      "name": "Micro Flechettes",
+      "weapon": "BRT7 连发手枪",
+      "name": "微型镖弹",
       "cost": {
         "credits": 7650,
         "bismor": 80,
@@ -352,8 +352,8 @@
     },
     "F1AE55CF592E7746A0001D61584BDF2A": {
       "dwarf": "Gunner",
-      "weapon": "BRT7 Burst Fire Gun",
-      "name": "Lead Spray",
+      "weapon": "BRT7 连发手枪",
+      "name": "铅弹散射",
       "cost": {
         "credits": 8050,
         "bismor": 125,
@@ -366,8 +366,8 @@
     },
     "A0E018C45FE679418FD3730E6E9B631D": {
       "dwarf": "Driller",
-      "weapon": "Experimental Plasma Charger",
-      "name": "Heat Pipe",
+      "weapon": "实验性等离子聚能手枪",
+      "name": "热导管",
       "cost": {
         "credits": 7450,
         "bismor": 60,
@@ -380,8 +380,8 @@
     },
     "55BB52A0ECFA7C43B37BBBE640114196": {
       "dwarf": "Driller",
-      "weapon": "Experimental Plasma Charger",
-      "name": "Overcharger",
+      "weapon": "实验性等离子聚能手枪",
+      "name": "超载充能",
       "cost": {
         "credits": 7050,
         "bismor": 120,
@@ -394,8 +394,8 @@
     },
     "97822071D586CE45ACD6489782B700FA": {
       "dwarf": "Driller",
-      "weapon": "Experimental Plasma Charger",
-      "name": "Energy Rerouting",
+      "weapon": "实验性等离子聚能手枪",
+      "name": "能量重导",
       "cost": {
         "credits": 7300,
         "bismor": 130,
@@ -408,8 +408,8 @@
     },
     "F1E6CC307C11DE4586B88B419E530ABF": {
       "dwarf": "Driller",
-      "weapon": "Experimental Plasma Charger",
-      "name": "Magnetic Cooling Unit",
+      "weapon": "实验性等离子聚能手枪",
+      "name": "磁力制冷",
       "cost": {
         "credits": 8900,
         "bismor": 0,
@@ -422,8 +422,8 @@
     },
     "39E43E13CC0DAE4691DD51A11383E9E1": {
       "dwarf": "Driller",
-      "weapon": "Experimental Plasma Charger",
-      "name": "Heavy Hitter",
+      "weapon": "实验性等离子聚能手枪",
+      "name": "沉重打击",
       "cost": {
         "credits": 8100,
         "bismor": 140,
@@ -436,8 +436,8 @@
     },
     "165CD93E660B8147BCA2F86CDE5CF8F7": {
       "dwarf": "Driller",
-      "weapon": "Experimental Plasma Charger",
-      "name": "Persistent Plasma",
+      "weapon": "实验性等离子聚能手枪",
+      "name": "长时电浆",
       "cost": {
         "credits": 8150,
         "bismor": 0,
@@ -450,8 +450,8 @@
     },
     "CD4EEC38C029724E8317CCDC22D06057": {
       "dwarf": "Engineer",
-      "weapon": "'Warthog' Auto 210",
-      "name": "Light-Weight Magazines",
+      "weapon": "“疣猪”210 自动霰弹枪",
+      "name": "轻量弹匣",
       "cost": {
         "credits": 7250,
         "bismor": 0,
@@ -464,8 +464,8 @@
     },
     "338DD238332A2E4EA5490208AAD7F502": {
       "dwarf": "Engineer",
-      "weapon": "'Warthog' Auto 210",
-      "name": "Stunner",
+      "weapon": "“疣猪”210 自动霰弹枪",
+      "name": "眩晕打击",
       "cost": {
         "credits": 7350,
         "bismor": 100,
@@ -478,8 +478,8 @@
     },
     "62D4C94C1367E8419691B677837DA4FB": {
       "dwarf": "Engineer",
-      "weapon": "'Warthog' Auto 210",
-      "name": "Mini Shells",
+      "weapon": "“疣猪”210 自动霰弹枪",
+      "name": "迷你霰弹",
       "cost": {
         "credits": 7700,
         "bismor": 0,
@@ -492,8 +492,8 @@
     },
     "70122BA2FBDABF4895DC09C90294E685": {
       "dwarf": "Engineer",
-      "weapon": "'Warthog' Auto 210",
-      "name": "Cycle Overload",
+      "weapon": "“疣猪”210 自动霰弹枪",
+      "name": "循环过载",
       "cost": {
         "credits": 8050,
         "bismor": 125,
@@ -506,8 +506,8 @@
     },
     "07E9279956BF9C418EEA313E2DC59F8D": {
       "dwarf": "Engineer",
-      "weapon": "'Warthog' Auto 210",
-      "name": "Magnetic Pellet Alignment",
+      "weapon": "“疣猪”210 自动霰弹枪",
+      "name": "磁力势阱",
       "cost": {
         "credits": 7900,
         "bismor": 0,
@@ -520,8 +520,8 @@
     },
     "CE660C4DD9980043A802A17A4569C0AC": {
       "dwarf": "Driller",
-      "weapon": "Cryo Cannon",
-      "name": "Improved Thermal Efficiency",
+      "weapon": "急冻喷射炮",
+      "name": "改良热效率",
       "cost": {
         "credits": 8350,
         "bismor": 0,
@@ -534,8 +534,8 @@
     },
     "6ADB23B3C8ED884086A88B8107C93CBE": {
       "dwarf": "Driller",
-      "weapon": "Cryo Cannon",
-      "name": "Tuned Cooler",
+      "weapon": "急冻喷射炮",
+      "name": "制冷调整",
       "cost": {
         "credits": 8750,
         "bismor": 110,
@@ -548,8 +548,8 @@
     },
     "88F8EAB206EC7B46A31C8F034B44931A": {
       "dwarf": "Driller",
-      "weapon": "Cryo Cannon",
-      "name": "Flow Rate Expansion",
+      "weapon": "急冻喷射炮",
+      "name": "流量扩充",
       "cost": {
         "credits": 8900,
         "bismor": 0,
@@ -562,8 +562,8 @@
     },
     "7B11755997B6564E97B1032A828EB90F": {
       "dwarf": "Driller",
-      "weapon": "Cryo Cannon",
-      "name": "Ice Storm",
+      "weapon": "急冻喷射炮",
+      "name": "冰刃风暴",
       "cost": {
         "credits": 7200,
         "bismor": 0,
@@ -576,8 +576,8 @@
     },
     "D518CB371A32A0449B345E4F58D34C91": {
       "dwarf": "Driller",
-      "weapon": "Cryo Cannon",
-      "name": "Ice Spear",
+      "weapon": "急冻喷射炮",
+      "name": "冰锥",
       "cost": {
         "credits": 8950,
         "bismor": 0,
@@ -590,8 +590,8 @@
     },
     "C1F16F970C9C1047AF836BF6CBFEBCAD": {
       "dwarf": "Driller",
-      "weapon": "Cryo Cannon",
-      "name": "Snowball",
+      "weapon": "急冻喷射炮",
+      "name": "雪球",
       "cost": {
         "credits": 8400,
         "bismor": 0,
@@ -604,8 +604,8 @@
     },
     "43CD8D27EAEAAA4A8E6DC43E0438A10C": {
       "dwarf": "Scout",
-      "weapon": "Zhukov NUK17",
-      "name": "Cryo Minelets",
+      "weapon": "朱可夫 NUK17 双持冲锋枪",
+      "name": "冰冻陷阱",
       "cost": {
         "credits": 7300,
         "bismor": 0,
@@ -618,8 +618,8 @@
     },
     "24A286C31F45EA469A20102AF4D741D3": {
       "dwarf": "Scout",
-      "weapon": "Zhukov NUK17",
-      "name": "Custom Casings",
+      "weapon": "朱可夫 NUK17 双持冲锋枪",
+      "name": "定制弹壳",
       "cost": {
         "credits": 7700,
         "bismor": 95,
@@ -632,8 +632,8 @@
     },
     "828B2BBC50EC424385EFD00EA6854597": {
       "dwarf": "Scout",
-      "weapon": "Zhukov NUK17",
-      "name": "Gas Recycling",
+      "weapon": "朱可夫 NUK17 双持冲锋枪",
+      "name": "热气回收",
       "cost": {
         "credits": 7800,
         "bismor": 0,
@@ -646,8 +646,8 @@
     },
     "FAF35071BA63B2429855FBC8A09BFFD0": {
       "dwarf": "Scout",
-      "weapon": "Zhukov NUK17",
-      "name": "Embedded Detonators",
+      "weapon": "朱可夫 NUK17 双持冲锋枪",
+      "name": "内置起爆",
       "cost": {
         "credits": 7550,
         "bismor": 0,
@@ -660,8 +660,8 @@
     },
     "98A0452B235402459CFF5CC3B34CCC69": {
       "dwarf": "Scout",
-      "weapon": "Zhukov NUK17",
-      "name": "Minimal Magazines",
+      "weapon": "朱可夫 NUK17 双持冲锋枪",
+      "name": "精简弹匣",
       "cost": {
         "credits": 8450,
         "bismor": 130,
@@ -674,8 +674,8 @@
     },
     "71588D43A7589A4ABE61A8DE2EB449BF": {
       "dwarf": "Driller",
-      "weapon": "CRSPR Flamethrower",
-      "name": "Compact Feed Valves",
+      "weapon": "CRSPR 火焰喷射器",
+      "name": "紧凑阀门",
       "cost": {
         "credits": 7350,
         "bismor": 70,
@@ -688,8 +688,8 @@
     },
     "6431A8DDEAA6894B90C57BAC7552A5FF": {
       "dwarf": "Driller",
-      "weapon": "CRSPR Flamethrower",
-      "name": "Face Melter",
+      "weapon": "CRSPR 火焰喷射器",
+      "name": "物理熔穿",
       "cost": {
         "credits": 7000,
         "bismor": 0,
@@ -702,8 +702,8 @@
     },
     "C5057A9608CF5E4BA4AAB32AD613BA3E": {
       "dwarf": "Driller",
-      "weapon": "CRSPR Flamethrower",
-      "name": "Lighter Tanks",
+      "weapon": "CRSPR 火焰喷射器",
+      "name": "轻量油罐",
       "cost": {
         "credits": 7500,
         "bismor": 125,
@@ -716,8 +716,8 @@
     },
     "19E85D1C3585B349B151779CBD7303D9": {
       "dwarf": "Driller",
-      "weapon": "CRSPR Flamethrower",
-      "name": "Fuel Stream Diffuser",
+      "weapon": "CRSPR 火焰喷射器",
+      "name": "燃油流扩散器",
       "cost": {
         "credits": 7100,
         "bismor": 100,
@@ -730,8 +730,8 @@
     },
     "F28C3EE38A960D48965E9F69F56B3F19": {
       "dwarf": "Driller",
-      "weapon": "CRSPR Flamethrower",
-      "name": "Sticky Fuel",
+      "weapon": "CRSPR 火焰喷射器",
+      "name": "黏性燃油",
       "cost": {
         "credits": 8800,
         "bismor": 0,
@@ -744,8 +744,8 @@
     },
     "415F1D83A77E7A448DBF60383103FD6C": {
       "dwarf": "Driller",
-      "weapon": "CRSPR Flamethrower",
-      "name": "Sticky Additive",
+      "weapon": "CRSPR 火焰喷射器",
+      "name": "黏性助剂",
       "cost": {
         "credits": 8250,
         "bismor": 80,
@@ -758,8 +758,8 @@
     },
     "2E9FBFB43B7B554FB3728780F1334824": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "Compact Feed Mechanism",
+      "weapon": "“铅暴”转管机枪",
+      "name": "紧凑送弹",
       "cost": {
         "credits": 7450,
         "bismor": 70,
@@ -772,8 +772,8 @@
     },
     "01D4653903832F498C50F7719D58E89B": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "Thinned Drum Walls",
+      "weapon": "“铅暴”转管机枪",
+      "name": "超薄鼓壁",
       "cost": {
         "credits": 7650,
         "bismor": 0,
@@ -786,8 +786,8 @@
     },
     "7CD10E2C55583041B577141C854BEE62": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "Lead Storm",
+      "weapon": "“铅暴”转管机枪",
+      "name": "铅弹风暴",
       "cost": {
         "credits": 8800,
         "bismor": 0,
@@ -800,8 +800,8 @@
     },
     "FBB1014758606A41888E378F69E3CD61": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "Exhaust Vectoring",
+      "weapon": "“铅暴”转管机枪",
+      "name": "排气引导",
       "cost": {
         "credits": 7400,
         "bismor": 140,
@@ -814,8 +814,8 @@
     },
     "B55D6170EEA5D743AC4B28293C0C4673": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "A Little More Oomph!",
+      "weapon": "“铅暴”转管机枪",
+      "name": "多转快点，小妞！",
       "cost": {
         "credits": 8700,
         "bismor": 120,
@@ -828,8 +828,8 @@
     },
     "63156673F2174F449F598F8729AC0C65": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "Burning Hell",
+      "weapon": "“铅暴”转管机枪",
+      "name": "烈火地狱",
       "cost": {
         "credits": 8700,
         "bismor": 0,
@@ -842,8 +842,8 @@
     },
     "ED4036806A69E848BC72DDE3CDEAC456": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "Bullet Hell",
+      "weapon": "“铅暴”转管机枪",
+      "name": "子弹地狱",
       "cost": {
         "credits": 7600,
         "bismor": 0,
@@ -856,8 +856,8 @@
     },
     "A97694E1A9B7484EB66E14DBF830DB6B": {
       "dwarf": "Engineer",
-      "weapon": "Deepcore 40mm PGL",
-      "name": "Pack Rat",
+      "weapon": "深核 40毫米便携式榴弹发射器",
+      "name": "仓鼠",
       "cost": {
         "credits": 7950,
         "bismor": 80,
@@ -870,8 +870,8 @@
     },
     "EE5713FA91A0E245A1C0BFCE15212074": {
       "dwarf": "Engineer",
-      "weapon": "Deepcore 40mm PGL",
-      "name": "Compact Rounds",
+      "weapon": "深核 40毫米便携式榴弹发射器",
+      "name": "压缩弹药",
       "cost": {
         "credits": 7900,
         "bismor": 120,
@@ -884,8 +884,8 @@
     },
     "87D2434388D3FC45884E351DCBE70F7C": {
       "dwarf": "Engineer",
-      "weapon": "Deepcore 40mm PGL",
-      "name": "Fat Boy",
+      "weapon": "深核 40毫米便携式榴弹发射器",
+      "name": "胖男孩",
       "cost": {
         "credits": 8300,
         "bismor": 120,
@@ -898,8 +898,8 @@
     },
     "B912059A3F86E44BA2985450D136CCB5": {
       "dwarf": "Engineer",
-      "weapon": "Deepcore 40mm PGL",
-      "name": "Clean Sweep",
+      "weapon": "深核 40毫米便携式榴弹发射器",
+      "name": "大扫除",
       "cost": {
         "credits": 8100,
         "bismor": 105,
@@ -912,8 +912,8 @@
     },
     "DB7EC788B46FCE4C9800A25010A0E8EA": {
       "dwarf": "Engineer",
-      "weapon": "Deepcore 40mm PGL",
-      "name": "RJ250 Compound",
+      "weapon": "深核 40毫米便携式榴弹发射器",
+      "name": "RJ250 化合物",
       "cost": {
         "credits": 8800,
         "bismor": 65,
@@ -926,8 +926,8 @@
     },
     "BC4CD684621BF6449607373A534A574F": {
       "dwarf": "Engineer",
-      "weapon": "Deepcore 40mm PGL",
-      "name": "Hyper Propellant",
+      "weapon": "深核 40毫米便携式榴弹发射器",
+      "name": "超推进剂",
       "cost": {
         "credits": 8950,
         "bismor": 0,
@@ -940,8 +940,8 @@
     },
     "96940C7CDCEFA84084DD4D60D2E81B2D": {
       "dwarf": "Engineer",
-      "weapon": "Breach Cutter",
-      "name": "Light-Weight Cases",
+      "weapon": "等离子切割器",
+      "name": "轻量匣壁",
       "cost": {
         "credits": 8700,
         "bismor": 130,
@@ -954,8 +954,8 @@
     },
     "3D7C9C85F6D3A549A2D6EDB09918314B": {
       "dwarf": "Engineer",
-      "weapon": "Breach Cutter",
-      "name": "Stronger Plasma Current",
+      "weapon": "等离子切割器",
+      "name": "强化电浆流",
       "cost": {
         "credits": 8650,
         "bismor": 0,
@@ -968,8 +968,8 @@
     },
     "7FA184CB9D21874D82BF9DDAFC7C91D7": {
       "dwarf": "Engineer",
-      "weapon": "Breach Cutter",
-      "name": "High Voltage Crossover",
+      "weapon": "等离子切割器",
+      "name": "高压转接",
       "cost": {
         "credits": 8250,
         "bismor": 120,
@@ -982,8 +982,8 @@
     },
     "8ED912F8267B844482EEDA86604451A5": {
       "dwarf": "Engineer",
-      "weapon": "Breach Cutter",
-      "name": "Inferno",
+      "weapon": "等离子切割器",
+      "name": "地狱火",
       "cost": {
         "credits": 7550,
         "bismor": 0,
@@ -996,8 +996,8 @@
     },
     "744251ED25D4484AA38DFBDBF43BC5B9": {
       "dwarf": "Engineer",
-      "weapon": "Breach Cutter",
-      "name": "Return to Sender",
+      "weapon": "等离子切割器",
+      "name": "冷血追命",
       "cost": {
         "credits": 7950,
         "bismor": 140,
@@ -1010,8 +1010,8 @@
     },
     "05DB2FA3B969E04F8644F5BE6C204020": {
       "dwarf": "Engineer",
-      "weapon": "Breach Cutter",
-      "name": "Roll Control",
+      "weapon": "等离子切割器",
+      "name": "旋转控制",
       "cost": {
         "credits": 8150,
         "bismor": 0,
@@ -1024,8 +1024,8 @@
     },
     "340AFBC6C306044281013181E0026E1B": {
       "dwarf": "Engineer",
-      "weapon": "Breach Cutter",
-      "name": "Spinning Death",
+      "weapon": "等离子切割器",
+      "name": "死亡圆舞",
       "cost": {
         "credits": 7300,
         "bismor": 75,
@@ -1038,8 +1038,8 @@
     },
     "A4AB7C627AF7FE4FA235E3AAC398ED1F": {
       "dwarf": "Driller",
-      "weapon": "Subata 120",
-      "name": "Chain Hit",
+      "weapon": "苏巴特 120 半自动手枪",
+      "name": "连锁打击",
       "cost": {
         "credits": 7300,
         "bismor": 0,
@@ -1052,8 +1052,8 @@
     },
     "F13E20C4E74976438E85C237AE071830": {
       "dwarf": "Driller",
-      "weapon": "Subata 120",
-      "name": "Oversized Magazine",
+      "weapon": "苏巴特 120 半自动手枪",
+      "name": "超大弹匣",
       "cost": {
         "credits": 9000,
         "bismor": 0,
@@ -1066,8 +1066,8 @@
     },
     "2949A3BE68EA2A4197D532AF80549101": {
       "dwarf": "Driller",
-      "weapon": "Subata 120",
-      "name": "Explosive Reload",
+      "weapon": "苏巴特 120 半自动手枪",
+      "name": "爆破装填",
       "cost": {
         "credits": 8100,
         "bismor": 0,
@@ -1080,8 +1080,8 @@
     },
     "28A8E817E50A7346963E418BA08DFE18": {
       "dwarf": "Driller",
-      "weapon": "Subata 120",
-      "name": "Automatic Fire",
+      "weapon": "苏巴特 120 半自动手枪",
+      "name": "全自动射击",
       "cost": {
         "credits": 7400,
         "bismor": 95,
@@ -1094,8 +1094,8 @@
     },
     "D57B542FBC793542B6BB5617C1A67229": {
       "dwarf": "Driller",
-      "weapon": "Subata 120",
-      "name": "Homebrew Powder",
+      "weapon": "苏巴特 120 半自动手枪",
+      "name": "自制火药",
       "cost": {
         "credits": 8100,
         "bismor": 95,
@@ -1108,8 +1108,8 @@
     },
     "587488BA77B28D4DA177400D995737A7": {
       "dwarf": "Driller",
-      "weapon": "Subata 120",
-      "name": "Tranquilizer Rounds",
+      "weapon": "苏巴特 120 半自动手枪",
+      "name": "镇定弹药",
       "cost": {
         "credits": 7150,
         "bismor": 0,
@@ -1122,8 +1122,8 @@
     },
     "A937DC3938DEE8418CD0641CCE19B46A": {
       "dwarf": "Gunner",
-      "weapon": "'Bulldog' Heavy Revolver",
-      "name": "Six Shooter",
+      "weapon": "“斗牛犬” 重型左轮手枪",
+      "name": "六连射手",
       "cost": {
         "credits": 7750,
         "bismor": 120,
@@ -1136,8 +1136,8 @@
     },
     "D53F94FBC05E0448B57BC9DF6846267B": {
       "dwarf": "Gunner",
-      "weapon": "'Bulldog' Heavy Revolver",
-      "name": "Elephant Rounds",
+      "weapon": "“斗牛犬” 重型左轮手枪",
+      "name": "巨象弹药",
       "cost": {
         "credits": 7300,
         "bismor": 0,
@@ -1150,8 +1150,8 @@
     },
     "5885A33B15AE844591A66B65A2E5494E": {
       "dwarf": "Gunner",
-      "weapon": "'Bulldog' Heavy Revolver",
-      "name": "Chain Hit",
+      "weapon": "“斗牛犬” 重型左轮手枪",
+      "name": "连锁打击",
       "cost": {
         "credits": 7300,
         "bismor": 0,
@@ -1164,8 +1164,8 @@
     },
     "DB02B4E77D43BF44A4749982C0879B77": {
       "dwarf": "Gunner",
-      "weapon": "'Bulldog' Heavy Revolver",
-      "name": "Magic Bullets",
+      "weapon": "“斗牛犬” 重型左轮手枪",
+      "name": "魔法子弹",
       "cost": {
         "credits": 8750,
         "bismor": 0,
@@ -1178,8 +1178,8 @@
     },
     "CD6993F938E27C49AC69293BF942A8F0": {
       "dwarf": "Gunner",
-      "weapon": "'Bulldog' Heavy Revolver",
-      "name": "Homebrew Powder",
+      "weapon": "“斗牛犬” 重型左轮手枪",
+      "name": "自制火药",
       "cost": {
         "credits": 8100,
         "bismor": 95,
@@ -1192,8 +1192,8 @@
     },
     "D1306CBC8421B248A4B95B332DF3E056": {
       "dwarf": "Gunner",
-      "weapon": "'Bulldog' Heavy Revolver",
-      "name": "Volatile Bullets",
+      "weapon": "“斗牛犬” 重型左轮手枪",
+      "name": "易燃子弹",
       "cost": {
         "credits": 7350,
         "bismor": 0,
@@ -1206,8 +1206,8 @@
     },
     "EF0CAC2AEF57BD41A72155B4DA395D47": {
       "dwarf": "Scout",
-      "weapon": "Jury-Rigged Boomstick",
-      "name": "Shaped Shells",
+      "weapon": "应急霰弹枪",
+      "name": "异形弹壳",
       "cost": {
         "credits": 7700,
         "bismor": 95,
@@ -1220,8 +1220,8 @@
     },
     "0B1A2EC60168C54E9E47CA764C3B70BD": {
       "dwarf": "Scout",
-      "weapon": "Jury-Rigged Boomstick",
-      "name": "Jumbo Shells",
+      "weapon": "应急霰弹枪",
+      "name": "超大弹壳",
       "cost": {
         "credits": 8800,
         "bismor": 65,
@@ -1234,8 +1234,8 @@
     },
     "3F68CB7C2FAB2843B1446D133BD92C1D": {
       "dwarf": "Scout",
-      "weapon": "Jury-Rigged Boomstick",
-      "name": "Stuffed Shells",
+      "weapon": "应急霰弹枪",
+      "name": "填充弹壳",
       "cost": {
         "credits": 7850,
         "bismor": 100,
@@ -1248,8 +1248,8 @@
     },
     "5F090BB3EFC96F4297F1BFC3F152C663": {
       "dwarf": "Scout",
-      "weapon": "Jury-Rigged Boomstick",
-      "name": "Double Barrel",
+      "weapon": "应急霰弹枪",
+      "name": "双管齐下",
       "cost": {
         "credits": 7950,
         "bismor": 0,
@@ -1262,8 +1262,8 @@
     },
     "FA40EE4A1F8CB04FBFAF916469E4B167": {
       "dwarf": "Scout",
-      "weapon": "Jury-Rigged Boomstick",
-      "name": "Compact Shells",
+      "weapon": "应急霰弹枪",
+      "name": "压缩弹壳",
       "cost": {
         "credits": 8550,
         "bismor": 0,
@@ -1276,8 +1276,8 @@
     },
     "E6DAF7D6065004439EF966D6FDBD69A6": {
       "dwarf": "Scout",
-      "weapon": "Jury-Rigged Boomstick",
-      "name": "Special Powder",
+      "weapon": "应急霰弹枪",
+      "name": "特殊火药",
       "cost": {
         "credits": 7050,
         "bismor": 95,
@@ -1290,8 +1290,8 @@
     },
     "05B157A075E0734BB471EF8DAE692865": {
       "dwarf": "Engineer",
-      "weapon": "'Stubby' Voltaic SMG",
-      "name": "Light-Weight Rounds",
+      "weapon": "“百万”伏特微型冲锋枪",
+      "name": "轻量弹药",
       "cost": {
         "credits": 8700,
         "bismor": 90,
@@ -1304,8 +1304,8 @@
     },
     "CE9490445B036B49B89DB2BC8D18FD12": {
       "dwarf": "Engineer",
-      "weapon": "'Stubby' Voltaic SMG",
-      "name": "Well Oiled Machine",
+      "weapon": "“百万”伏特微型冲锋枪",
+      "name": "精心保养",
       "cost": {
         "credits": 8400,
         "bismor": 0,
@@ -1318,8 +1318,8 @@
     },
     "81B842310E01B847BF99774DBC3DC0DD": {
       "dwarf": "Engineer",
-      "weapon": "'Stubby' Voltaic SMG",
-      "name": "EM Refire Booster",
+      "weapon": "“百万”伏特微型冲锋枪",
+      "name": "电磁反馈",
       "cost": {
         "credits": 8300,
         "bismor": 60,
@@ -1332,8 +1332,8 @@
     },
     "13CF1C4A6992924A9AFF5CEAF05B7106": {
       "dwarf": "Engineer",
-      "weapon": "'Stubby' Voltaic SMG",
-      "name": "Super-Slim Rounds",
+      "weapon": "“百万”伏特微型冲锋枪",
+      "name": "细制弹药",
       "cost": {
         "credits": 8550,
         "bismor": 90,
@@ -1346,8 +1346,8 @@
     },
     "0C1BAA64B03CB94EBB77B7B55E7C6C87": {
       "dwarf": "Engineer",
-      "weapon": "'Stubby' Voltaic SMG",
-      "name": "Turret EM Discharge",
+      "weapon": "“百万”伏特微型冲锋枪",
+      "name": "炮台电磁爆炸",
       "cost": {
         "credits": 8450,
         "bismor": 80,
@@ -1360,8 +1360,8 @@
     },
     "3C42DBEA3021EE44AF6D944A91314D75": {
       "dwarf": "Engineer",
-      "weapon": "'Stubby' Voltaic SMG",
-      "name": "Micro-Conductor Add-On",
+      "weapon": "“百万”伏特微型冲锋枪",
+      "name": "导体附加",
       "cost": {
         "credits": 7300,
         "bismor": 60,
@@ -1374,8 +1374,8 @@
     },
     "1E41880C9E18FC439B82B69F19F0A191": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Fragmentation Missiles",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "破片飞弹",
       "cost": {
         "credits": 7150,
         "bismor": 100,
@@ -1388,8 +1388,8 @@
     },
     "52DE47B5A2579E418564F19382240866": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Salvo Module",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "齐射模块",
       "cost": {
         "credits": 8650,
         "bismor": 0,
@@ -1402,8 +1402,8 @@
     },
     "8E6816C3DAEE2C49B93E8FA67CF13B1A": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Rocket Barrage",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "火箭弹幕",
       "cost": {
         "credits": 7050,
         "bismor": 75,
@@ -1416,8 +1416,8 @@
     },
     "C24639FB04A00949BE8F00CD38462B84": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Jet Fuel Homebrew",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "急速飞弹",
       "cost": {
         "credits": 7250,
         "bismor": 70,
@@ -1430,8 +1430,8 @@
     },
     "C873E29A463E4F4DAD4821D92BC31FB4": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Minelayer System",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "布雷系统",
       "cost": {
         "credits": 7500,
         "bismor": 80,
@@ -1444,8 +1444,8 @@
     },
     "01CD9AAD2398FB46818A3F6F6A96384A": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Plasma Burster Missiles",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "贯穿爆破",
       "cost": {
         "credits": 8500,
         "bismor": 0,
@@ -1458,8 +1458,8 @@
     },
     "2A257648DF688844BA3DB091A3756BA5": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Overtuned Feed Mechanism",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "过载供弹",
       "cost": {
         "credits": 8950,
         "bismor": 0,
@@ -1472,8 +1472,8 @@
     },
     "C1D77A8BAFD433408E4A8397F1A63AEC": {
       "dwarf": "Driller",
-      "weapon": "Corrosive Sludge Pump",
-      "name": "Disperser Compound",
+      "weapon": "蚀泥喷射泵",
+      "name": "蚀泥迸裂",
       "cost": {
         "credits": 8800,
         "bismor": 0,
@@ -1486,8 +1486,8 @@
     },
     "4CCC7E994163A14AAAC97AB3777FF1F9": {
       "dwarf": "Driller",
-      "weapon": "Corrosive Sludge Pump",
-      "name": "Goo Bomber Special",
+      "weapon": "蚀泥喷射泵",
+      "name": "黏液轰炸",
       "cost": {
         "credits": 7450,
         "bismor": 0,
@@ -1500,8 +1500,8 @@
     },
     "4956672BA68D3A439D4EC260F0B98CE4": {
       "dwarf": "Driller",
-      "weapon": "Corrosive Sludge Pump",
-      "name": "AG Mixture",
+      "weapon": "蚀泥喷射泵",
+      "name": "让泥浆飞",
       "cost": {
         "credits": 7800,
         "bismor": 0,
@@ -1514,8 +1514,8 @@
     },
     "ECCAB2551405F044A93FFB6C51FF9B39": {
       "dwarf": "Driller",
-      "weapon": "Corrosive Sludge Pump",
-      "name": "Hydrogen Ion Additive",
+      "weapon": "蚀泥喷射泵",
+      "name": "蚀骨泥潭",
       "cost": {
         "credits": 8800,
         "bismor": 135,
@@ -1528,8 +1528,8 @@
     },
     "539F16D0ECA50447B21BD3B1ADD439CB": {
       "dwarf": "Driller",
-      "weapon": "Corrosive Sludge Pump",
-      "name": "Volatile Impact Mixture",
+      "weapon": "蚀泥喷射泵",
+      "name": "及蚀刑乐",
       "cost": {
         "credits": 8500,
         "bismor": 120,
@@ -1542,8 +1542,8 @@
     },
     "EA7D273B56099B4B9F44768A099A8C1C": {
       "dwarf": "Driller",
-      "weapon": "Corrosive Sludge Pump",
-      "name": "Sludge Blast",
+      "weapon": "蚀泥喷射泵",
+      "name": "霰射泥浆",
       "cost": {
         "credits": 8200,
         "bismor": 0,
@@ -1556,8 +1556,8 @@
     },
     "5ABF1C487BF3BD4BAFDAF2A4428720EC": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Rewiring Mod",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "模块重调",
       "cost": {
         "credits": 8200,
         "bismor": 130,
@@ -1570,8 +1570,8 @@
     },
     "1BD74059739E094BBE0A3B79F2E94B46": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Impact Deflection",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "弹跳电浆",
       "cost": {
         "credits": 7950,
         "bismor": 0,
@@ -1584,8 +1584,8 @@
     },
     "00EA09DA14DA7646982DD5A1B2467A08": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Thermal Liquid Coolant",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "液冷散热",
       "cost": {
         "credits": 8100,
         "bismor": 75,
@@ -1598,8 +1598,8 @@
     },
     "BFFE0C3436AC584D890B6EFE9124AAF1": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Thermal Exhaust Feedback",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "废热回导",
       "cost": {
         "credits": 7500,
         "bismor": 140,
@@ -1612,8 +1612,8 @@
     },
     "9225769777355041BDEB70CACD946A27": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Overtuned Particle Accelerator",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "爆能电浆",
       "cost": {
         "credits": 7200,
         "bismor": 100,
@@ -1626,8 +1626,8 @@
     },
     "D831B000F2A2C84C8749A5B182348574": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Aggressive Venting",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "暴力散热",
       "cost": {
         "credits": 8000,
         "bismor": 130,
@@ -1640,8 +1640,8 @@
     },
     "532714B803867C4F8AA6EA78FA4EAAEA": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Shield Battery Booster",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "护盾协能",
       "cost": {
         "credits": 8850,
         "bismor": 65,
@@ -1654,8 +1654,8 @@
     },
     "B63D1376D90DDD4C986851D791E737AB": {
       "dwarf": "Engineer",
-      "weapon": "LOK-1 Smart Rifle",
-      "name": "Armor Break Module",
+      "weapon": "LOK-1 智能步枪",
+      "name": "破甲模块",
       "cost": {
         "credits": 7850,
         "bismor": 0,
@@ -1668,8 +1668,8 @@
     },
     "538A52E774FCB24C85E5F7F1CE63E3FA": {
       "dwarf": "Engineer",
-      "weapon": "LOK-1 Smart Rifle",
-      "name": "Eraser",
+      "weapon": "LOK-1 智能步枪",
+      "name": "威胁肃清",
       "cost": {
         "credits": 8000,
         "bismor": 0,
@@ -1682,8 +1682,8 @@
     },
     "8884ED69B093E44681F36C74FD1E772F": {
       "dwarf": "Engineer",
-      "weapon": "LOK-1 Smart Rifle",
-      "name": "Executioner",
+      "weapon": "LOK-1 智能步枪",
+      "name": "死刑宣判",
       "cost": {
         "credits": 8750,
         "bismor": 0,
@@ -1696,8 +1696,8 @@
     },
     "6FA83E783551F54A97BC04F09DF1A842": {
       "dwarf": "Engineer",
-      "weapon": "LOK-1 Smart Rifle",
-      "name": "Explosive Chemical Rounds",
+      "weapon": "LOK-1 智能步枪",
+      "name": "连“锁”爆弹",
       "cost": {
         "credits": 8500,
         "bismor": 0,
@@ -1710,8 +1710,8 @@
     },
     "798B9546AB16B34CAD766DAB554150D9": {
       "dwarf": "Engineer",
-      "weapon": "LOK-1 Smart Rifle",
-      "name": "Seeker Rounds",
+      "weapon": "LOK-1 智能步枪",
+      "name": "夺命凶弹",
       "cost": {
         "credits": 8150,
         "bismor": 60,
@@ -1724,8 +1724,8 @@
     },
     "956BB51F4D8F254291A0C0E740BD07CF": {
       "dwarf": "Engineer",
-      "weapon": "LOK-1 Smart Rifle",
-      "name": "Neuro-Lasso",
+      "weapon": "LOK-1 智能步枪",
+      "name": "神经套索",
       "cost": {
         "credits": 8950,
         "bismor": 0,
@@ -1738,8 +1738,8 @@
     },
     "5F614059B3ADA14E930831EF4B609802": {
       "dwarf": "Driller",
-      "weapon": "Colette Wave Cooker",
-      "name": "Liquid Cooling System",
+      "weapon": "柯莱特 微波烹调者",
+      "name": "液冷系统",
       "cost": {
         "credits": 7400,
         "bismor": 125,
@@ -1752,8 +1752,8 @@
     },
     "79A870ED00C9814A942BE4AD49A10B63": {
       "dwarf": "Driller",
-      "weapon": "Colette Wave Cooker",
-      "name": "Super Focus Lens",
+      "weapon": "柯莱特 微波烹调者",
+      "name": "超聚镜头",
       "cost": {
         "credits": 7400,
         "bismor": 125,
@@ -1766,8 +1766,8 @@
     },
     "0CD9E18B85E271449901D38D50BA62B4": {
       "dwarf": "Driller",
-      "weapon": "Colette Wave Cooker",
-      "name": "Diffusion Ray",
+      "weapon": "柯莱特 微波烹调者",
+      "name": "扩散射线",
       "cost": {
         "credits": 8300,
         "bismor": 0,
@@ -1780,8 +1780,8 @@
     },
     "A3E85790ABCBC74ABCCB3CC636509A1B": {
       "dwarf": "Driller",
-      "weapon": "Colette Wave Cooker",
-      "name": "Mega Power Supply",
+      "weapon": "柯莱特 微波烹调者",
+      "name": "超级电容",
       "cost": {
         "credits": 8100,
         "bismor": 0,
@@ -1794,8 +1794,8 @@
     },
     "48648832AA11E04DAE9F2E8ADF89AD8D": {
       "dwarf": "Driller",
-      "weapon": "Colette Wave Cooker",
-      "name": "Blistering Necrosis",
+      "weapon": "柯莱特 微波烹调者",
+      "name": "脓包坏死",
       "cost": {
         "credits": 7850,
         "bismor": 70,
@@ -1808,8 +1808,8 @@
     },
     "5EDD2987DB047F498ADD72FCEB6C1EE3": {
       "dwarf": "Driller",
-      "weapon": "Colette Wave Cooker",
-      "name": "Gamma Contamination",
+      "weapon": "柯莱特 微波烹调者",
+      "name": "伽马污染",
       "cost": {
         "credits": 8350,
         "bismor": 100,
@@ -1822,8 +1822,8 @@
     },
     "F1432F121F68E04DA0C5DD8E50CF717D": {
       "dwarf": "Engineer",
-      "weapon": "Shard Diffractor",
-      "name": "Efficiency Tweaks",
+      "weapon": "心石聚能炮",
+      "name": "效率调整",
       "cost": {
         "credits": 7650,
         "bismor": 0,
@@ -1836,8 +1836,8 @@
     },
     "71D81BC3DBC28F4D905A6C9F4A8B55AE": {
       "dwarf": "Engineer",
-      "weapon": "Shard Diffractor",
-      "name": "Automated Beam Controller",
+      "weapon": "心石聚能炮",
+      "name": "自动光控",
       "cost": {
         "credits": 8050,
         "bismor": 90,
@@ -1850,8 +1850,8 @@
     },
     "F1880C6F7BEF10478E77EE4FC63481F6": {
       "dwarf": "Engineer",
-      "weapon": "Shard Diffractor",
-      "name": "Feedback Loop",
+      "weapon": "心石聚能炮",
+      "name": "反馈循环",
       "cost": {
         "credits": 7200,
         "bismor": 0,
@@ -1864,8 +1864,8 @@
     },
     "7BB7C21FA1D1E64A8C007CE6A023A412": {
       "dwarf": "Engineer",
-      "weapon": "Shard Diffractor",
-      "name": "Volatile Impact Reactor",
+      "weapon": "心石聚能炮",
+      "name": "熔火核心",
       "cost": {
         "credits": 8300,
         "bismor": 65,
@@ -1878,8 +1878,8 @@
     },
     "D330723969BCE44CB1EBE9009A2F6E0D": {
       "dwarf": "Engineer",
-      "weapon": "Shard Diffractor",
-      "name": "Plastcrete Catalyst",
+      "weapon": "心石聚能炮",
+      "name": "聚能爆炸",
       "cost": {
         "credits": 8300,
         "bismor": 65,
@@ -1892,8 +1892,8 @@
     },
     "187A18BA5283D24C905A37F4FB123BA0": {
       "dwarf": "Engineer",
-      "weapon": "Shard Diffractor",
-      "name": "Overdrive Booster",
+      "weapon": "心石聚能炮",
+      "name": "聚能过载",
       "cost": {
         "credits": 7900,
         "bismor": 120,
@@ -1906,8 +1906,8 @@
     },
     "8C5D24BD68D5F14A89A6B87A857CCD9B": {
       "dwarf": "Gunner",
-      "weapon": "Armskore Coil Gun",
-      "name": "Re-atomizer",
+      "weapon": "“武装核心”电磁手炮",
+      "name": "原子重组",
       "cost": {
         "credits": 7750,
         "bismor": 90,
@@ -1920,8 +1920,8 @@
     },
     "26841EB5823A284B81BF7DA3792708D7": {
       "dwarf": "Gunner",
-      "weapon": "Armskore Coil Gun",
-      "name": "Ultra-Magnetic Coils",
+      "weapon": "“武装核心”电磁手炮",
+      "name": "超磁线圈",
       "cost": {
         "credits": 7900,
         "bismor": 0,
@@ -1934,8 +1934,8 @@
     },
     "F82F326576E8A74899753CB6316B7C20": {
       "dwarf": "Gunner",
-      "weapon": "Armskore Coil Gun",
-      "name": "Backfeeding Module",
+      "weapon": "“武装核心”电磁手炮",
+      "name": "返补模块",
       "cost": {
         "credits": 8100,
         "bismor": 125,
@@ -1948,8 +1948,8 @@
     },
     "56471F219BE014448DFE5F087CABD447": {
       "dwarf": "Gunner",
-      "weapon": "Armskore Coil Gun",
-      "name": "The Mole",
+      "weapon": "“武装核心”电磁手炮",
+      "name": "鼹鼠",
       "cost": {
         "credits": 8100,
         "bismor": 70,
@@ -1962,8 +1962,8 @@
     },
     "80DEA90AD5F3174695138FF47A32A96A": {
       "dwarf": "Gunner",
-      "weapon": "Armskore Coil Gun",
-      "name": "Hellfire",
+      "weapon": "“武装核心”电磁手炮",
+      "name": "地狱烈焰",
       "cost": {
         "credits": 8700,
         "bismor": 0,
@@ -1976,8 +1976,8 @@
     },
     "A6751DA1B87C134EBC5710C7431C1453": {
       "dwarf": "Gunner",
-      "weapon": "Armskore Coil Gun",
-      "name": "Triple-tech Chambers",
+      "weapon": "“武装核心”电磁手炮",
+      "name": "三重连射",
       "cost": {
         "credits": 8500,
         "bismor": 70,
@@ -1990,8 +1990,8 @@
     },
     "1CFA57FA35D0DB49A9AAF87CAA011EF4": {
       "dwarf": "Scout",
-      "weapon": "Nishanka Boltshark X-80",
-      "name": "Quick Fire",
+      "weapon": "尼桑卡 X-80“闪电鲨”战术弩",
+      "name": "速射模式",
       "cost": {
         "credits": 8400,
         "bismor": 0,
@@ -2004,8 +2004,8 @@
     },
     "6C464531820EA849BB3C80C0F190A74F": {
       "dwarf": "Scout",
-      "weapon": "Nishanka Boltshark X-80",
-      "name": "The Specialist",
+      "weapon": "尼桑卡 X-80“闪电鲨”战术弩",
+      "name": "行家里手",
       "cost": {
         "credits": 7900,
         "bismor": 0,
@@ -2018,8 +2018,8 @@
     },
     "75CFD0A90F31C94A9D6A8D02147DE1FC": {
       "dwarf": "Scout",
-      "weapon": "Nishanka Boltshark X-80",
-      "name": "Cryo Bolt",
+      "weapon": "尼桑卡 X-80“闪电鲨”战术弩",
+      "name": "冰冻弩箭",
       "cost": {
         "credits": 7350,
         "bismor": 0,
@@ -2032,8 +2032,8 @@
     },
     "DDCA81E29C6BE8488C2DF4F0B0C72A72": {
       "dwarf": "Scout",
-      "weapon": "Nishanka Boltshark X-80",
-      "name": "Fire Bolt",
+      "weapon": "尼桑卡 X-80“闪电鲨”战术弩",
+      "name": "火焰弩箭",
       "cost": {
         "credits": 7100,
         "bismor": 0,
@@ -2046,8 +2046,8 @@
     },
     "AECB0F241DFA194AB04BBB86563FA840": {
       "dwarf": "Scout",
-      "weapon": "Nishanka Boltshark X-80",
-      "name": "Bodkin Points",
+      "weapon": "尼桑卡 X-80“闪电鲨”战术弩",
+      "name": "乘胜锥击",
       "cost": {
         "credits": 8400,
         "bismor": 0,
@@ -2060,8 +2060,8 @@
     },
     "62FE96DE32A5454EB0F1952BD68DBAF4": {
       "dwarf": "Scout",
-      "weapon": "Nishanka Boltshark X-80",
-      "name": "Trifork Volley",
+      "weapon": "尼桑卡 X-80“闪电鲨”战术弩",
+      "name": "一箭三连",
       "cost": {
         "credits": 7650,
         "bismor": 130,
@@ -2088,8 +2088,8 @@
     },
     "F87380FA4EC44A41A79974F6BAC074A6": {
       "dwarf": "Gunner",
-      "weapon": "'Thunderhead' Heavy Autocannon",
-      "name": "Mortar Rounds",
+      "weapon": "“雷暴云砧”重型双管机炮",
+      "name": "迫击炮弹",
       "cost": {
         "credits": 7300,
         "bismor": 0,
@@ -2102,8 +2102,8 @@
     },
     "4D2ACAFC30FFB542A645C75948EFE75F": {
       "dwarf": "Scout",
-      "weapon": "M1000 Classic",
-      "name": "Marked For Death",
+      "weapon": "M1000 经典型步枪",
+      "name": "死亡标记",
       "cost": {
         "credits": 7150,
         "bismor": 90,
@@ -2116,8 +2116,8 @@
     },
     "4AD58615AC68374F819663AD4C510B6D": {
       "dwarf": "Engineer",
-      "weapon": "'Warthog' Auto 210",
-      "name": "Pump Action",
+      "weapon": "“疣猪”210 自动霰弹枪",
+      "name": "泵动改造",
       "cost": {
         "credits": 8550,
         "bismor": 100,
@@ -2130,8 +2130,8 @@
     },
     "2406E7980F5CCC449B3FF39C9B9F0807": {
       "dwarf": "Driller",
-      "weapon": "Cryo Cannon",
-      "name": "Crystal Nucleation",
+      "weapon": "急冻喷射炮",
+      "name": "冰气凝棘",
       "cost": {
         "credits": 8300,
         "bismor": 0,
@@ -2144,8 +2144,8 @@
     },
     "E5D05E38562B34408054603F41E99091": {
       "dwarf": "Driller",
-      "weapon": "CRSPR Flamethrower",
-      "name": "Scorching Tide",
+      "weapon": "CRSPR 火焰喷射器",
+      "name": "灼热浪潮",
       "cost": {
         "credits": 7300,
         "bismor": 70,
@@ -2158,8 +2158,8 @@
     },
     "B6772BCBDAB2A8469058B4C0AC876413": {
       "dwarf": "Gunner",
-      "weapon": "'Lead Storm' Powered Minigun",
-      "name": "Rotary Overdrive",
+      "weapon": "“铅暴”转管机枪",
+      "name": "转轮过载",
       "cost": {
         "credits": 8550,
         "bismor": 110,
@@ -2172,8 +2172,8 @@
     },
     "48B4DE944D359341920EFCBBADD235C5": {
       "dwarf": "Driller",
-      "weapon": "Corrosive Sludge Pump",
-      "name": "Combustive Goo Mix",
+      "weapon": "蚀泥喷射泵",
+      "name": "泥浆炸裂",
       "cost": {
         "credits": 8950,
         "bismor": 135,
@@ -2186,8 +2186,8 @@
     },
     "4E71A830F4274647A5C763A1E9CBC41A": {
       "dwarf": "Engineer",
-      "weapon": "LOK-1 Smart Rifle",
-      "name": "SmЯt Trigger OS™",
+      "weapon": "LOK-1 智能步枪",
+      "name": "“大聪明”扳机系统™",
       "cost": {
         "credits": 7050,
         "bismor": 130,
@@ -2200,8 +2200,8 @@
     },
     "22B4FA6E4CC458458BC3533E783E202D": {
       "dwarf": "Gunner",
-      "weapon": "'Hurricane' Guided Rocket System",
-      "name": "Cluster Charges",
+      "weapon": "“飓风”制导火箭系统",
+      "name": "集束轰炸",
       "cost": {
         "credits": 8150,
         "bismor": 0,
@@ -2214,8 +2214,8 @@
     },
     "943DA878EBA6F1428B1866736EE08395": {
       "dwarf": "Scout",
-      "weapon": "DRAK-25 Plasma Carbine",
-      "name": "Conductive Thermals",
+      "weapon": "DRAK-25 电浆卡宾枪",
+      "name": "恒温电导",
       "cost": {
         "credits": 7600,
         "bismor": 70,
@@ -2228,8 +2228,8 @@
     },
     "464B23599A0DDE489B152C4D730B6EF4": {
       "dwarf": "Engineer",
-      "weapon": "'Stubby' Voltaic SMG",
-      "name": "Hyperalloy Assembly",
+      "weapon": "“百万”伏特微型冲锋枪",
+      "name": "合金部件",
       "cost": {
         "credits": 7100,
         "bismor": 0,
