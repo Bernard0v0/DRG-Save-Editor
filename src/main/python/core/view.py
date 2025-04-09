@@ -115,7 +115,7 @@ class EditorUI:
         self.remove_all_ocs: QPushButton = self.inner.__getattribute__("remove_all_ocs")
 
         # set column names for overclock treeview
-        self.overclock_tree.setHeaderLabels(["Overclock", "Status", "GUID"])
+        self.overclock_tree.setHeaderLabels(["矩阵核心", "状态", "GUID"])
 
         # populate the promotion drop downs
         promo_boxes = [
@@ -129,7 +129,7 @@ class EditorUI:
                 i.addItem(j)
 
         # populate the filter drop down for overclocks
-        sort_labels: list[str] = ["All", Status.UNFORGED, Status.FORGED, Status.UNACQUIRED]
+        sort_labels: list[str] = ["全部", Status.UNFORGED, Status.FORGED, Status.UNACQUIRED]
         for i in sort_labels:
             self.combo_oc_filter.addItem(i)
 
@@ -142,7 +142,7 @@ class EditorUI:
     def show_empty_oc_tree(self):
         overclock_tree = self.overclock_tree.invisibleRootItem()
         error_text = QTreeWidgetItem(overclock_tree)
-        error_text.setText(0, "No dwarf promoted yet")
+        error_text.setText(0, "还没有角色晋升过")
         self.add_cores_button.setEnabled(False)
 
     def build_oc_tree(self, oc_dict: dict, guid_dict: dict) -> None:
@@ -230,7 +230,7 @@ def get_unforged_list_item_string(oc_item: Overclock):
     if oc_item.category == Category.WEAPONS:
         text = f"{oc_item.weapon}: {oc_item.name} ({oc_item.guid})"
     elif oc_item.name:
-        text = f"Cosmetic: {oc_item.name} - {oc_item.dwarf} ({oc_item.guid})"
+        text = f"时装: {oc_item.name} - {oc_item.dwarf} ({oc_item.guid})"
     else:
-        text = f"Unknown: ({oc_item.guid})"
+        text = f"未知: ({oc_item.guid})"
     return text

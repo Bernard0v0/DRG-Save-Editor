@@ -2,10 +2,10 @@ from enum import Enum, StrEnum, auto
 
 
 class Dwarf(StrEnum):
-    DRILLER = "Driller"
-    GUNNER = "Gunner"
-    SCOUT = "Scout"
-    ENGINEER = "Engineer"
+    DRILLER = "钻机手"
+    GUNNER = "枪手"
+    SCOUT = "侦察兵"
+    ENGINEER = "工程师"
 
 
 class Resource(Enum):
@@ -27,18 +27,18 @@ class Resource(Enum):
 
 class Category(StrEnum):
     """Type of overclock"""
-    COSMETIC_BEARD = "Cosmetic - Beard"
-    COSMETIC_HEADWEAR = "Cosmetic - Headwear"
-    COSMETIC_MUSTACHE = "Cosmetic - Moustache"
-    COSMETIC_SIDEBURNS = "Cosmetic - Sideburns"
-    VICTORY_MOVES = "Victory Moves"
-    WEAPONS = "Weapons"
-    WEAPON_SKINS = "Weapon Skins"
-    UNKNOWN = "Unknown"
+    COSMETIC_BEARD = "时装 - 下颚胡须"
+    COSMETIC_HEADWEAR = "时装 - 头饰"
+    COSMETIC_MUSTACHE = "时装 - 上唇胡须"
+    COSMETIC_SIDEBURNS = "时装 - 鬓角"
+    VICTORY_MOVES = "胜利姿势"
+    WEAPONS = "武器"
+    WEAPON_SKINS = "武器涂装"
+    UNKNOWN = "未知"
 
 
 class Status(StrEnum):
     """Status of an overclock"""
-    UNACQUIRED = "Unacquired"
-    UNFORGED = "Unforged"
-    FORGED = "Forged"
+    UNACQUIRED = "未获取"
+    UNFORGED = "未锻造"
+    FORGED = "已锻造"

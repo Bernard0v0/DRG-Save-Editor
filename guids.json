@@ -1,9 +1,9 @@
 {
-  "Weapons": {
+  "武器": {
     "AF945B93A7B9D64CA6DD00683627BC80": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "Compact Ammo",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "压缩弹药",
       "cost": {
         "credits": 7250,
         "bismor": 125,
@@ -16,8 +16,8 @@
     },
     "FF94B9E7834D774292DACCCA3EA023B9": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "Electrifying Reload",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "电击装填",
       "cost": {
         "credits": 7750,
         "bismor": 105,
@@ -30,8 +30,8 @@
     },
     "11F123E174103140957957506BD576D7": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "AI Stability Engine",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "智能稳定",
       "cost": {
         "credits": 8250,
         "bismor": 0,
@@ -44,8 +44,8 @@
     },
     "4CDF41F3A0F8E4499D1BAC6168347799": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "Homebrew Powder",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "自制火药",
       "cost": {
         "credits": 8100,
         "bismor": 95,
@@ -58,8 +58,8 @@
     },
     "C3060324CE482C4AB6DC44ED498CBA39": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "Overclocked Firing Mechanism",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "超频撞针",
       "cost": {
         "credits": 7950,
         "bismor": 95,
@@ -72,8 +72,8 @@
     },
     "F6E2E547F2EB674DBDA591F47DE6D017": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "Gas Rerouting",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "气压重导",
       "cost": {
         "credits": 7800,
         "bismor": 0,
@@ -86,8 +86,8 @@
     },
     "7306221F1264B04B8C025DB4DE9D1667": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "Bullets of Mercy",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "仁慈超度",
       "cost": {
         "credits": 8100,
         "bismor": 90,
@@ -2074,8 +2074,8 @@
     },
     "34B2EB764839C94CB7F96B5567317255": {
       "dwarf": "Scout",
-      "weapon": "Deepcore GK2",
-      "name": "Burst Fire",
+      "weapon": "深核 GK2 突击步枪",
+      "name": "点射扳机",
       "cost": {
         "credits": 8300,
         "bismor": 0,
@@ -2241,7 +2241,7 @@
       }
     }
   },
-  "Cosmetic - Headwear": {
+  "时装 - 头饰": {
     "DA6D56BA7CFF804CB56C4D905570D9D3": {
       "name": "First Blood",
       "dwarf": "Driller"
@@ -2387,7 +2387,7 @@
       "dwarf": "Scout"
     }
   },
-  "Cosmetic - Moustache": {
+  "时装 - 上唇胡须": {
     "206E82CB0C3916488970FAC71A03FC64": {
       "name": "Bangled Braids",
       "dwarf": "Driller"
@@ -2565,7 +2565,7 @@
       "dwarf": "Scout"
     }
   },
-  "Cosmetic - Beard": {
+  "时装 - 下颚胡须": {
     "61663AF76E9AF24998F5AF8FB3DCED56": {
       "name": "Bound Goatee",
       "dwarf": "Driller"
@@ -3143,7 +3143,7 @@
       "dwarf": "Scout"
     }
   },
-  "Cosmetic - Sideburns": {
+  "时装 - 鬓角": {
     "D5AD7FC62BD72546A0BF55D9836C29FA": {
       "name": "Berserker",
       "dwarf": "Driller"
@@ -3257,7 +3257,7 @@
       "dwarf": "Scout"
     }
   },
-  "Victory Moves": {
+  "胜利姿势": {
     "A5482D68A2F8D64AB7372582E8DAA032": {
       "name": "Barrel Drop",
       "dwarf": "Driller"
@@ -3403,7 +3403,7 @@
       "dwarf": "Scout"
     }
   },
-  "Weapon Skins": {
+  "武器涂装": {
     "78FD630A6E171948AE7971FA6E2D8938": {
       "name": "Beyond the Circuit",
       "dwarf": "Driller"

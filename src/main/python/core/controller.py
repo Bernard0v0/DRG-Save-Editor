@@ -561,7 +561,8 @@ class Controller:
             title = "Lord of the Deep"
 
         self.widget.classes_group.setTitle(
-            f"Classes - Rank {rank + 1} {rem}/3, {title}"
+            # f"蓝等：{rank + 1} - 进度 {rem}/3, {title}"
+            f"蓝等：{rank + 1} - 进度 {rem}/3"
         )
 
     def init_overclock_tree(self):
